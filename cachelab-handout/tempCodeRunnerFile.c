@@ -1,0 +1,1 @@
+    while ((opt = getopt(argc, argv, "hsv:E:b:t:")) != -1) {
